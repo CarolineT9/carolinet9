@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently studying Systems Analysis and Development - Full-Stack and Mobile.<br>🌱 I'm currently learning HTML, CSS and Java Script and also about Software Engineering and
-Programming Logic, as part of the Systems Analysis and Development course<br>
+🔭 I'm currently studying Systems Analysis and Development - Full-Stack and Mobile.<br>🌱I'm currently learning HTML, CSS and Java Script and also about Software Engineering and
+Programming Logic (using python), as part of the Systems Analysis and Development course<br>
 
 
 ## 🌐 Socials:
