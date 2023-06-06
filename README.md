@@ -6,8 +6,9 @@
 - 📨 Contante-me no e-mail: caroltvrs@gmail.com
 - 🙂 Pronomes: Ela/dela
 
-![CarolineT9's Stats](https://github-readme-stats.vercel.app/api?username=CarolineT9&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) ![CarolineT9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarolineT9&theme=ayu-mirage&hide_border=true)
-![CarolineT9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineT9&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![CarolineT9's Stats](https://github-readme-stats.vercel.app/api?username=CarolineT9&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true) ![CarolineT9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineT9&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![CarolineT9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarolineT9&theme=ayu-mirage&hide_border=true)
+
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" heigh="40px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" heigh="40px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigh="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" heigh="40px"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" heigh="40px"  />
