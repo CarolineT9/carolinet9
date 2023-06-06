@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/caroline-tavares-65150b189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![snake gif](https://github.com/CarolineT9/CarolineT9/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarolineT9/CarolineT9/blob/output/github-contribution-grid-snake.svg)
           
           
           
