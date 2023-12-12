@@ -14,9 +14,20 @@
   <img align="center" alt="Carol-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carol-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Carol-Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+ 
+  
  </div>
  </div>
+
+
+<div align="center"> 
+<h3> Frameworks </h3>
+<div style="display: inline_block">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
+  
+ </div>
+ </div>
+ 
  <br>
 <div align="center"> 
 <h3 color=bc445c> 💻 Connect with me </h3>
