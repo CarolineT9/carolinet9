@@ -13,7 +13,7 @@
   <img align="center" alt="Carol-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Carol-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
  
   
  </div>
@@ -24,6 +24,8 @@
 <h3> Frameworks </h3>
 <div style="display: inline_block">
   <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify.svg">
+  
   
  </div>
  </div>
