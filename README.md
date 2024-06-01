@@ -9,13 +9,25 @@
 
 <div align="center"> 
 <h3> Technologies </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js, linux, windows" />
-  </a>
-</p>
-  
+<div style="display: inline_block">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Carol-CSS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Carol-JS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Carol-JS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+  <img align="center" alt="Carol-JS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
+  <img align="center" alt="Carol-JS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+
  
+
+  
+
+  
+  
+
+
+
+ </div>
+ </div>
   
  
  </div>
@@ -25,11 +37,18 @@
 <h3> Frameworks </h3>
 <div style="display: inline_block">
   <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
-  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify.svg">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+  <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg">
+
   
+
   
- </div>
- </div>
+
+ 
+  
+</div>
+</div>
  
  <br>
 <div align="center"> 
