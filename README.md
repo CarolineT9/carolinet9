@@ -34,7 +34,7 @@
 
 
 <div align="center"> 
-<h3> Frameworks </h3>
+<h3> Tools </h3>
 <div style="display: inline_block">
   <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
   <img align="center" alt="Carol-HTML" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg">
