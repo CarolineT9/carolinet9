@@ -17,10 +17,7 @@
   - Java
   - React native
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/CarolineT9)
-   
-  
+ 
 
 
 🚀 Explore meus repositórios e sinta-se à vontade para contribuir, deixar sugestões ou trocar ideias!
