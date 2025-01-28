@@ -12,6 +12,8 @@
    - Vuetify
    - Boostrap
    - Pinia
+   - React
+   - Tailwind
 
 💻 Tecnologias que estou aprendendo:
   - Java
