@@ -10,7 +10,7 @@
    - Vue.js
    - Vue Router
    - Vuetify
-   - Boostrap
+   - Bootstrap
    - Pinia
    - React
    - Tailwind
