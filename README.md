@@ -23,3 +23,7 @@
 
 
 🚀 Explore meus repositórios e sinta-se à vontade para contribuir, deixar sugestões ou trocar ideias!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineT9&layout=compact&langs_count=6&theme=github_dark&card_width=500)
+
