@@ -14,6 +14,7 @@
    - Pinia
    - React
    - Tailwind
+   - Quasar
 
 💻 Tecnologias que estou aprendendo:
   - Java
